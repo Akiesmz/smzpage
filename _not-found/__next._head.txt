@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[56542,["/smzpage/_next/static/chunks/0i0uneo4zpa_d.js","/smzpage/_next/static/chunks/3m_1rijbl6-v7.js","/smzpage/_next/static/chunks/0klbja5-ddbww.js","/smzpage/_next/static/chunks/3achfd0v2mqmj.js"],"ViewportBoundary"]
+3:I[56542,["/smzpage/_next/static/chunks/0i0uneo4zpa_d.js","/smzpage/_next/static/chunks/3m_1rijbl6-v7.js","/smzpage/_next/static/chunks/0klbja5-ddbww.js","/smzpage/_next/static/chunks/3achfd0v2mqmj.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Akie洲记 — 个人博客作品集"}],["$","meta","1",{"name":"description","content":"一个使用 Next.js 构建的杂志式个人博客与作品集首页。"}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XsJeb00cqkpMRsU0RoxNq"}

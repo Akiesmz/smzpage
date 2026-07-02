@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[56542,["/smzpage/_next/static/chunks/0i0uneo4zpa_d.js","/smzpage/_next/static/chunks/3m_1rijbl6-v7.js","/smzpage/_next/static/chunks/0klbja5-ddbww.js","/smzpage/_next/static/chunks/3achfd0v2mqmj.js"],"ViewportBoundary"]
+3:I[56542,["/smzpage/_next/static/chunks/0i0uneo4zpa_d.js","/smzpage/_next/static/chunks/3m_1rijbl6-v7.js","/smzpage/_next/static/chunks/0klbja5-ddbww.js","/smzpage/_next/static/chunks/3achfd0v2mqmj.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"为什么我写这些文章：一个程序员的写作动机 — Akie洲记"}],["$","meta","1",{"name":"description","content":"一封关于写作动机的自白：为什么一个写代码的人要花时间写文章，以及写作如何反过来帮助我成为一个更好的工程师。"}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XsJeb00cqkpMRsU0RoxNq"}

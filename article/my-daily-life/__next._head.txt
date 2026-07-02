@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[56542,["/smzpage/_next/static/chunks/0i0uneo4zpa_d.js","/smzpage/_next/static/chunks/3m_1rijbl6-v7.js","/smzpage/_next/static/chunks/0klbja5-ddbww.js","/smzpage/_next/static/chunks/3achfd0v2mqmj.js"],"ViewportBoundary"]
+3:I[56542,["/smzpage/_next/static/chunks/0i0uneo4zpa_d.js","/smzpage/_next/static/chunks/3m_1rijbl6-v7.js","/smzpage/_next/static/chunks/0klbja5-ddbww.js","/smzpage/_next/static/chunks/3achfd0v2mqmj.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"我的日常生活：在代码、焦虑和咖啡之间寻找节奏 — Akie洲记"}],["$","meta","1",{"name":"description","content":"一篇关于个人日常的真实记录：早上的第一杯咖啡、白天的编码节奏、晚上的写作习惯，以及那些让生活不至于崩塌的小仪式。"}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XsJeb00cqkpMRsU0RoxNq"}

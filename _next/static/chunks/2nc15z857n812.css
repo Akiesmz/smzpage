@@ -1,0 +1,1 @@
+.gradient-text{color:#0000;-webkit-background-clip:text;background-clip:text;animation:linear infinite gradient-shift;display:inline}@keyframes gradient-shift{0%{background-position:0%}50%{background-position:100%}to{background-position:0%}}@media (prefers-reduced-motion:reduce){.gradient-text{animation:none}}
